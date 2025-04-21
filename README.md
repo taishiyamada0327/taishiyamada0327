@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=taishiyamada0327&count_private=true&show_icons=true&theme=holi)
+
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=taishiyamada0327&layout=compact&theme=holi)
 <!--
 **taishiyamada0327/taishiyamada0327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
