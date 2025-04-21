@@ -1,8 +1,11 @@
 ## Hi there 👋
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=taishiyamada0327&count_private=true&show_icons=true&theme=holi)
-
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=taishiyamada0327&layout=compact&theme=holi)
+<a href=“https://github.com/anuraghazra/github-readme-stats”>
+  <img height=200 align=“center” src="https://github-readme-stats.vercel.app/api?username=taishiyamada0327&count_private=true&show_icons=true&theme=holi" />
+</a>
+<a href=“https://github.com/anuraghazra/convoychat”>
+  <img height=200 align=“center” src="https://github-readme-stats.vercel.app/api/top-langs/?username=taishiyamada0327&layout=compact&theme=holi&langs_count=8&card_width=320" />
+</a>
 <!--
 **taishiyamada0327/taishiyamada0327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
